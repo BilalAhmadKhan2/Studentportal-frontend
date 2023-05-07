@@ -1,3 +1,5 @@
+![usecasediagram drawio (1)](https://user-images.githubusercontent.com/130067109/236703432-2042d15e-3612-4c66-b57c-1a30331f7d34.png)
+![UML architecture diagram](https://user-images.githubusercontent.com/130067109/236703434-7cdc2fc6-f149-4dae-adf1-1d1324429566.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
